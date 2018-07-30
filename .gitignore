@@ -1,0 +1,5 @@
+*.dat
+results/plots
+
+#Git no hace tracking  de los archivos indicados en esta carpeta
+#Si tienes archivos grandes los puedes poner en git ignore de este modo esos archivo no ocupan memoria
